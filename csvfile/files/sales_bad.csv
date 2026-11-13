@@ -1,0 +1,401 @@
+Date,Product,Category,Sub-Category,Region,Units,Revenue
+2022-01-01,Binder Clips Assorted,Office Supplies,Binders,East,4,22.95
+2022-01-02,Binder Clips Assorted,Office Supplies,Binders,West,4,22.04
+2022-01-03,Marker Set 24 Colors,Office Supplies,Art,East,3,40.07
+2022-01-08,USB-C Hub 7-in-1,Technology,Accessories,South,6,328.44
+2022-01-09,Legal Pads 12-Pack,Office Supplies,Paper,East,3,49.73
+2022-01-10,Bookcase 5-Shelf,Furniture,Storage,West,2,-301.97
+2022-01-12,iPhone Case Pro,Technology,Phones,Central,3,132.87
+2022-01-14,Smartphone Charger 20W,Technology,Phones,West,2,49.95
+2022-01-15,Webcam HD 1080p,Technology,Accessories,Central,3,188.14
+2022-01-16,iPhone Case Pro,Technology,Phones,South,2,91.6
+2022-01-17,iPhone Case Pro,Technology,Phones,East,1,40.07
+2022-01-20,Wireless Earbuds,Technology,Phones,Central,4,338.28
+2022-01-21,Bookcase 5-Shelf,Furniture,Storage,East,5,749.24
+2022-01-22,USB-C Hub 7-in-1,Technology,Accessories,South,1,60.72
+2022-01-30,Smartphone Charger 20W,Technology,Phones,South,2,49.69
+2022-01-30,USB-C Hub 7-in-1,Technology,Accessories,East,1,58.37
+2022-01-31,USB-C Hub 7-in-1,Technology,Accessories,South,1,46.34
+2022-02-01,Filing Cabinet 3-Drawer,Furniture,Storage,West,6,-1025.65
+2022-02-04,USB-C Hub 7-in-1,Technology,Accessories,West,2,111.24
+2022-02-05,Standing Desk Electric,Furniture,Tables,East,2,782.65
+2022-02-08,Task Chair Mesh,Furniture,Chairs,South,1,124.17
+2022-02-16,Standing Desk Electric,Furniture,Tables,South,2,813.96
+2022-02-17,Wireless Earbuds,Technology,Phones,East,1,82.09
+2022-02-22,Filing Cabinet 3-Drawer,Furniture,Storage,East,1,176.45
+2022-02-23,Conference Table 6ft,Furniture,Tables,Central,3,1181.51
+2022-02-28,Marker Set 24 Colors,Office Supplies,Art,East,-5,55.08
+2022-03-03,Bookcase 5-Shelf,Furniture,Storage,South,4,597.07
+2022-03-03,Standing Desk Electric,Furniture,Tables,West,4,1756.58
+2022-03-05,Marker Set 24 Colors,Office Supplies,Art,Central,3,41.66
+2022-03-10,Webcam HD 1080p,Technology,Accessories,Central,2,-137.95
+2022-03-13,Smartphone Charger 20W,Technology,Phones,East,1,25.49
+2022-03-14,Heavy-Duty Binder 3in,Office Supplies,Binders,East,2,18.01
+2022-03-17,Bookcase 5-Shelf,Furniture,Storage,Central,-5,300.18
+2022-03-18,USB-C Hub 7-in-1,Technology,Accessories,East,5,311.55
+2022-03-19,Smartphone Charger 20W,Technology,Phones,East,3,66.3
+2022-03-23,Copy Paper 10 Ream Case,Office Supplies,Paper,South,2,95.68
+2022-03-27,Wireless Earbuds,Technology,Phones,East,3,246.59
+2022-03-29,Standing Desk Electric,Furniture,Tables,West,6,2407.3
+2022-04-12,Standing Desk Electric,Furniture,Tables,Central,4,1681.3
+2022-04-15,USB-C Hub 7-in-1,Technology,Accessories,West,4,222.32
+2022-04-18,Ergonomic Office Chair,Furniture,Chairs,East,4,897.74
+2022-04-18,Marker Set 24 Colors,Office Supplies,Art,East,2,28.14
+2022-04-19,Binder Clips Assorted,Office Supplies,Binders,Central,4,21.56
+2022-04-24,Copy Paper 10 Ream Case,Office Supplies,Paper,Central,2,100.79
+2022-04-26,Webcam HD 1080p,Technology,Accessories,East,1,67.91
+2022-04-29,Webcam HD 1080p,Technology,Accessories,East,3,207.9
+2022-05-01,Marker Set 24 Colors,Office Supplies,Art,West,3,34.19
+2022-05-05,Legal Pads 12-Pack,Office Supplies,Paper,East,4,63.14
+2022-05-06,Bookcase 5-Shelf,Furniture,Storage,West,1,151.61
+2022-05-09,Task Chair Mesh,Furniture,Chairs,East,4,511.29
+2022-05-12,Copy Paper 10 Ream Case,Office Supplies,Paper,Central,6,276.39
+2022-05-12,Filing Cabinet 3-Drawer,Furniture,Storage,East,1,182.55
+2022-05-15,Filing Cabinet 3-Drawer,Furniture,Storage,Central,1,162.4
+2022-05-15,USB-C Hub 7-in-1,Technology,Accessories,East,2,125.62
+2022-05-19,Smartphone Charger 20W,Technology,Phones,West,6,155.19
+2022-05-21,Bookcase 5-Shelf,Furniture,Storage,East,2,312.5
+2022-05-26,Conference Table 6ft,Furniture,Tables,West,6,2126.33
+2022-05-26,Copy Paper 10 Ream Case,Office Supplies,Paper,East,6,261.67
+2022-05-26,iPhone Case Pro,Technology,Phones,South,1,45.94
+2022-05-30,Highlighters 12-Pack,Office Supplies,Art,Central,2,19.27
+2022-05-31,Heavy-Duty Binder 3in,Office Supplies,Binders,East,1,7.28
+2022-06-06,Smartphone Charger 20W,Technology,Phones,West,1,23.8
+2022-06-08,Highlighters 12-Pack,Office Supplies,Art,Central,7,72.78
+2022-06-09,USB-C Hub 7-in-1,Technology,Accessories,Central,2,97.48
+2022-06-10,Task Chair Mesh,Furniture,Chairs,East,4,516.91
+2022-06-16,Smartphone Charger 20W,Technology,Phones,South,1,25.07
+2022-06-16,iPhone Case Pro,Technology,Phones,South,5,222.6
+2022-06-17,Conference Table 6ft,Furniture,Tables,East,-5,1385.17
+2022-06-20,Ergonomic Office Chair,Furniture,Chairs,East,4,918.08
+2022-06-25,Marker Set 24 Colors,Office Supplies,Art,South,2,28.38
+2022-06-28,Wireless Earbuds,Technology,Phones,West,1,84.49
+2022-06-30,Legal Pads 12-Pack,Office Supplies,Paper,South,5,86.31
+2022-07-07,iPhone Case Pro,Technology,Phones,East,1,44.98
+2022-07-12,Laptop Stand Aluminum,Technology,Accessories,South,6,329.67
+2022-07-12,Highlighters 12-Pack,Office Supplies,Art,Central,4,38.69
+2022-07-13,Laptop Stand Aluminum,Technology,Accessories,Central,2,106.23
+2022-07-15,Wireless Earbuds,Technology,Phones,South,3,272.3
+2022-07-16,iPhone Case Pro,Technology,Phones,East,1,43.4
+2022-07-18,Marker Set 24 Colors,Office Supplies,Art,East,5,-66.67
+2022-07-23,Laptop Stand Aluminum,Technology,Accessories,South,2,99.74
+2022-07-24,Ergonomic Office Chair,Furniture,Chairs,South,3,753.96
+2022-07-25,Filing Cabinet 3-Drawer,Furniture,Storage,West,2,275.43
+2022-07-26,Bookcase 5-Shelf,Furniture,Storage,West,2,296.2
+2022-07-28,Copy Paper 10 Ream Case,Office Supplies,Paper,East,2,91.72
+2022-07-29,iPhone Case Pro,Technology,Phones,East,4,177.75
+2022-07-29,Wireless Earbuds,Technology,Phones,South,1,92.75
+2022-08-02,Copy Paper 10 Ream Case,Office Supplies,Paper,South,3,148.06
+2022-08-03,Ergonomic Office Chair,Furniture,Chairs,West,2,479.31
+2022-08-06,Conference Table 6ft,Furniture,Tables,Central,2,715.88
+2022-08-08,Conference Table 6ft,Furniture,Tables,West,1,398.49
+2022-08-09,Webcam HD 1080p,Technology,Accessories,Central,3,199.2
+2022-08-09,iPhone Case Pro,Technology,Phones,West,3,128.06
+2022-08-10,Laptop Stand Aluminum,Technology,Accessories,Central,5,280.07
+2022-08-10,Wireless Earbuds,Technology,Phones,East,2,174.12
+2022-08-12,iPhone Case Pro,Technology,Phones,South,-5,217.39
+2022-08-27,Smartphone Charger 20W,Technology,Phones,West,1,25.69
+2022-08-31,Laptop Stand Aluminum,Technology,Accessories,West,2,108.27
+2022-09-01,Heavy-Duty Binder 3in,Office Supplies,Binders,Central,6,51.03
+2022-09-08,USB-C Hub 7-in-1,Technology,Accessories,Central,3,173.61
+2022-09-09,Webcam HD 1080p,Technology,Accessories,East,6,415.56
+2022-09-11,Laptop Stand Aluminum,Technology,Accessories,West,3,156.85
+2022-09-13,Webcam HD 1080p,Technology,Accessories,East,6,404.23
+2022-09-16,Highlighters 12-Pack,Office Supplies,Art,Central,4,40.06
+2022-09-16,Task Chair Mesh,Furniture,Chairs,West,4,474.11
+2022-09-18,Heavy-Duty Binder 3in,Office Supplies,Binders,Central,3,23.32
+2022-09-25,iPhone Case Pro,Technology,Phones,South,10,446.36
+2022-09-27,USB-C Hub 7-in-1,Technology,Accessories,West,2,109.98
+2022-10-08,Copy Paper 10 Ream Case,Office Supplies,Paper,West,7,280.55
+2022-10-12,iPhone Case Pro,Technology,Phones,West,3,140.21
+2022-10-12,Highlighters 12-Pack,Office Supplies,Art,West,4,39.36
+2022-10-12,Standing Desk Electric,Furniture,Tables,East,6,2417.87
+2022-10-15,Standing Desk Electric,Furniture,Tables,West,9,3825.14
+2022-10-23,Filing Cabinet 3-Drawer,Furniture,Storage,East,4,701.96
+2022-10-25,Task Chair Mesh,Furniture,Chairs,South,2,255.48
+2022-10-25,iPhone Case Pro,Technology,Phones,West,4,172.77
+2022-10-28,USB-C Hub 7-in-1,Technology,Accessories,West,5,289.94
+2022-11-05,Laptop Stand Aluminum,Technology,Accessories,West,6,305.15
+2022-11-05,Smartphone Charger 20W,Technology,Phones,East,5,120.83
+2022-11-07,Webcam HD 1080p,Technology,Accessories,East,2,142.74
+2022-11-10,Marker Set 24 Colors,Office Supplies,Art,West,4,55.09
+2022-11-12,Webcam HD 1080p,Technology,Accessories,West,7,508.89
+2022-11-13,Highlighters 12-Pack,Office Supplies,Art,East,8,76.4
+2022-11-19,Legal Pads 12-Pack,Office Supplies,Paper,South,2,-37.3
+2022-11-21,Smartphone Charger 20W,Technology,Phones,Central,1,22.86
+2022-11-25,Laptop Stand Aluminum,Technology,Accessories,West,8,400.56
+2022-11-29,Highlighters 12-Pack,Office Supplies,Art,West,8,-77.28
+2022-12-05,Heavy-Duty Binder 3in,Office Supplies,Binders,South,7,61.09
+2022-12-06,Standing Desk Electric,Furniture,Tables,Central,5,2193.31
+2022-12-07,Copy Paper 10 Ream Case,Office Supplies,Paper,South,1,48.83
+2022-12-10,Legal Pads 12-Pack,Office Supplies,Paper,South,4,65.52
+2022-12-11,Laptop Stand Aluminum,Technology,Accessories,West,5,264.03
+2022-12-25,Ergonomic Office Chair,Furniture,Chairs,South,10,2363.12
+2022-12-27,Standing Desk Electric,Furniture,Tables,East,4,1500.68
+2022-12-27,Wireless Earbuds,Technology,Phones,Central,10,891.62
+2022-12-31,Filing Cabinet 3-Drawer,Furniture,Storage,Central,4,645.73
+2023-01-03,USB-C Hub 7-in-1,Technology,Accessories,East,1,58.73
+2023-01-06,Filing Cabinet 3-Drawer,Furniture,Storage,Central,4,688.5
+2023-01-12,Marker Set 24 Colors,Office Supplies,Art,East,3,31.95
+2023-01-12,Conference Table 6ft,Furniture,Tables,East,1,364.45
+2023-01-24,Heavy-Duty Binder 3in,Office Supplies,Binders,West,2,16.88
+2023-01-26,Copy Paper 10 Ream Case,Office Supplies,Paper,West,3,143.45
+2023-01-27,Copy Paper 10 Ream Case,Office Supplies,Paper,West,1,45.98
+2023-01-28,USB-C Hub 7-in-1,Technology,Accessories,West,1,61.39
+2023-01-29,Wireless Earbuds,Technology,Phones,East,3,255.16
+2023-01-31,Wireless Earbuds,Technology,Phones,West,4,356.4
+2023-01-31,Copy Paper 10 Ream Case,Office Supplies,Paper,West,1,49.48
+2023-02-08,Copy Paper 10 Ream Case,Office Supplies,Paper,West,4,196.69
+2023-02-08,Copy Paper 10 Ream Case,Office Supplies,Paper,West,3,148.0
+2023-02-09,Webcam HD 1080p,Technology,Accessories,South,2,140.98
+2023-02-11,Highlighters 12-Pack,Office Supplies,Art,Central,2,19.27
+2023-02-15,Marker Set 24 Colors,Office Supplies,Art,West,3,38.65
+2023-02-20,Marker Set 24 Colors,Office Supplies,Art,South,3,38.53
+2023-02-20,Highlighters 12-Pack,Office Supplies,Art,East,4,41.27
+2023-02-22,iPhone Case Pro,Technology,Phones,Central,3,138.07
+2023-02-22,iPhone Case Pro,Technology,Phones,West,5,230.21
+2023-02-23,Standing Desk Electric,Furniture,Tables,West,3,1241.43
+2023-02-25,Task Chair Mesh,Furniture,Chairs,Central,2,270.69
+2023-02-26,Conference Table 6ft,Furniture,Tables,South,-5,662.15
+2023-02-26,iPhone Case Pro,Technology,Phones,West,1,45.53
+2023-03-07,Legal Pads 12-Pack,Office Supplies,Paper,South,3,52.84
+2023-03-08,Heavy-Duty Binder 3in,Office Supplies,Binders,Central,6,47.93
+2023-03-11,Copy Paper 10 Ream Case,Office Supplies,Paper,Central,4,173.65
+2023-03-14,Ergonomic Office Chair,Furniture,Chairs,East,6,1495.15
+2023-03-15,Standing Desk Electric,Furniture,Tables,West,3,1275.58
+2023-03-15,Standing Desk Electric,Furniture,Tables,Central,1,433.3
+2023-03-17,Smartphone Charger 20W,Technology,Phones,East,3,78.25
+2023-03-18,Marker Set 24 Colors,Office Supplies,Art,South,1,14.42
+2023-03-19,Laptop Stand Aluminum,Technology,Accessories,West,3,160.2
+2023-03-24,iPhone Case Pro,Technology,Phones,West,1,43.18
+2023-03-27,Ergonomic Office Chair,Furniture,Chairs,West,3,707.03
+2023-03-27,USB-C Hub 7-in-1,Technology,Accessories,East,1,58.04
+2023-03-30,Laptop Stand Aluminum,Technology,Accessories,West,3,168.57
+2023-03-31,Task Chair Mesh,Furniture,Chairs,East,1,-127.19
+2023-04-03,Task Chair Mesh,Furniture,Chairs,Central,8,1074.94
+2023-04-06,Bookcase 5-Shelf,Furniture,Storage,Central,1,-149.24
+2023-04-07,Binder Clips Assorted,Office Supplies,Binders,West,1,5.98
+2023-04-10,Marker Set 24 Colors,Office Supplies,Art,West,3,38.76
+2023-04-12,Laptop Stand Aluminum,Technology,Accessories,West,3,160.31
+2023-04-13,Wireless Earbuds,Technology,Phones,West,3,264.55
+2023-04-14,Binder Clips Assorted,Office Supplies,Binders,South,4,25.06
+2023-04-16,Highlighters 12-Pack,Office Supplies,Art,East,1,10.34
+2023-04-20,Conference Table 6ft,Furniture,Tables,West,8,3019.66
+2023-04-26,Legal Pads 12-Pack,Office Supplies,Paper,East,2,34.56
+2023-04-27,Conference Table 6ft,Furniture,Tables,South,6,2359.22
+2023-05-04,Legal Pads 12-Pack,Office Supplies,Paper,West,5,88.42
+2023-05-04,iPhone Case Pro,Technology,Phones,West,6,266.82
+2023-05-05,Webcam HD 1080p,Technology,Accessories,Central,5,354.68
+2023-05-05,USB-C Hub 7-in-1,Technology,Accessories,West,4,232.29
+2023-05-08,Heavy-Duty Binder 3in,Office Supplies,Binders,East,2,-17.95
+2023-05-09,Conference Table 6ft,Furniture,Tables,East,-5,1235.34
+2023-05-09,Webcam HD 1080p,Technology,Accessories,Central,7,483.25
+2023-05-10,Copy Paper 10 Ream Case,Office Supplies,Paper,East,5,208.87
+2023-05-16,Wireless Earbuds,Technology,Phones,West,5,436.93
+2023-05-17,Conference Table 6ft,Furniture,Tables,South,4,1563.77
+2023-05-18,Copy Paper 10 Ream Case,Office Supplies,Paper,South,7,331.28
+2023-05-20,Copy Paper 10 Ream Case,Office Supplies,Paper,West,2,98.68
+2023-05-20,Filing Cabinet 3-Drawer,Furniture,Storage,West,2,357.25
+2023-05-24,Bookcase 5-Shelf,Furniture,Storage,South,5,-581.22
+2023-06-02,Marker Set 24 Colors,Office Supplies,Art,West,6,85.29
+2023-06-03,Marker Set 24 Colors,Office Supplies,Art,East,2,27.55
+2023-06-11,Task Chair Mesh,Furniture,Chairs,South,5,603.55
+2023-06-17,Binder Clips Assorted,Office Supplies,Binders,West,2,11.12
+2023-06-19,Wireless Earbuds,Technology,Phones,South,8,746.55
+2023-06-20,Task Chair Mesh,Furniture,Chairs,South,1,131.23
+2023-06-22,Smartphone Charger 20W,Technology,Phones,South,4,91.79
+2023-06-24,Webcam HD 1080p,Technology,Accessories,East,4,293.28
+2023-06-26,Laptop Stand Aluminum,Technology,Accessories,West,2,103.0
+2023-07-08,Wireless Earbuds,Technology,Phones,West,1,87.97
+2023-07-11,USB-C Hub 7-in-1,Technology,Accessories,East,3,182.16
+2023-07-13,Bookcase 5-Shelf,Furniture,Storage,West,4,592.82
+2023-07-14,Marker Set 24 Colors,Office Supplies,Art,West,2,25.75
+2023-07-26,Copy Paper 10 Ream Case,Office Supplies,Paper,South,1,49.22
+2023-07-28,USB-C Hub 7-in-1,Technology,Accessories,West,2,118.22
+2023-07-30,Standing Desk Electric,Furniture,Tables,East,4,1601.44
+2023-08-05,Copy Paper 10 Ream Case,Office Supplies,Paper,Central,4,-185.61
+2023-08-07,Laptop Stand Aluminum,Technology,Accessories,West,2,106.29
+2023-08-08,Wireless Earbuds,Technology,Phones,East,5,429.69
+2023-08-09,Webcam HD 1080p,Technology,Accessories,West,1,68.49
+2023-08-12,Laptop Stand Aluminum,Technology,Accessories,South,6,264.17
+2023-08-15,Copy Paper 10 Ream Case,Office Supplies,Paper,South,3,137.23
+2023-08-16,Heavy-Duty Binder 3in,Office Supplies,Binders,South,1,8.81
+2023-08-21,Webcam HD 1080p,Technology,Accessories,East,4,274.37
+2023-08-23,Standing Desk Electric,Furniture,Tables,East,7,2852.14
+2023-08-28,Highlighters 12-Pack,Office Supplies,Art,West,1,-10.09
+2023-08-28,iPhone Case Pro,Technology,Phones,South,9,416.99
+2023-08-30,Wireless Earbuds,Technology,Phones,South,-5,592.15
+2023-08-31,USB-C Hub 7-in-1,Technology,Accessories,West,-5,125.09
+2023-09-06,Copy Paper 10 Ream Case,Office Supplies,Paper,East,4,-185.51
+2023-09-08,Filing Cabinet 3-Drawer,Furniture,Storage,West,4,699.4
+2023-09-11,iPhone Case Pro,Technology,Phones,West,7,302.7
+2023-09-14,Wireless Earbuds,Technology,Phones,Central,7,593.43
+2023-09-26,Conference Table 6ft,Furniture,Tables,East,6,2199.81
+2023-09-27,Laptop Stand Aluminum,Technology,Accessories,West,5,274.07
+2023-09-27,Standing Desk Electric,Furniture,Tables,Central,7,2800.62
+2023-09-28,Filing Cabinet 3-Drawer,Furniture,Storage,South,4,715.21
+2023-10-06,Legal Pads 12-Pack,Office Supplies,Paper,Central,7,123.46
+2023-10-07,Heavy-Duty Binder 3in,Office Supplies,Binders,West,6,54.68
+2023-10-14,iPhone Case Pro,Technology,Phones,East,2,81.81
+2023-10-14,Legal Pads 12-Pack,Office Supplies,Paper,East,1,15.67
+2023-10-15,Bookcase 5-Shelf,Furniture,Storage,East,4,613.26
+2023-10-18,Bookcase 5-Shelf,Furniture,Storage,West,6,693.19
+2023-10-19,Conference Table 6ft,Furniture,Tables,East,9,3526.07
+2023-10-22,Binder Clips Assorted,Office Supplies,Binders,Central,2,-11.76
+2023-10-24,Laptop Stand Aluminum,Technology,Accessories,East,3,153.79
+2023-10-27,Laptop Stand Aluminum,Technology,Accessories,South,3,162.76
+2023-10-27,Legal Pads 12-Pack,Office Supplies,Paper,East,5,92.88
+2023-10-28,USB-C Hub 7-in-1,Technology,Accessories,West,8,465.02
+2023-10-29,Marker Set 24 Colors,Office Supplies,Art,Central,4,54.87
+2023-10-30,Bookcase 5-Shelf,Furniture,Storage,West,5,738.08
+2023-11-02,Copy Paper 10 Ream Case,Office Supplies,Paper,South,7,337.38
+2023-11-03,Copy Paper 10 Ream Case,Office Supplies,Paper,Central,3,145.11
+2023-11-17,Binder Clips Assorted,Office Supplies,Binders,East,8,42.27
+2023-11-18,Marker Set 24 Colors,Office Supplies,Art,Central,2,27.53
+2023-11-21,Wireless Earbuds,Technology,Phones,West,13,1148.19
+2023-11-21,Conference Table 6ft,Furniture,Tables,West,6,2348.29
+2023-11-22,Heavy-Duty Binder 3in,Office Supplies,Binders,Central,4,37.49
+2023-11-22,Bookcase 5-Shelf,Furniture,Storage,West,3,416.95
+2023-12-08,Ergonomic Office Chair,Furniture,Chairs,West,7,1758.45
+2023-12-15,Task Chair Mesh,Furniture,Chairs,Central,8,1019.13
+2023-12-19,Laptop Stand Aluminum,Technology,Accessories,West,5,271.25
+2023-12-22,Binder Clips Assorted,Office Supplies,Binders,East,6,33.72
+2023-12-22,Task Chair Mesh,Furniture,Chairs,East,11,1105.5
+2023-12-24,Filing Cabinet 3-Drawer,Furniture,Storage,Central,7,1254.2
+2023-12-27,Binder Clips Assorted,Office Supplies,Binders,East,5,26.02
+2023-12-28,Task Chair Mesh,Furniture,Chairs,Central,4,521.45
+2024-01-01,Marker Set 24 Colors,Office Supplies,Art,East,2,26.66
+2024-01-02,Binder Clips Assorted,Office Supplies,Binders,Central,2,11.8
+2024-01-03,Filing Cabinet 3-Drawer,Furniture,Storage,Central,3,521.38
+2024-01-05,Task Chair Mesh,Furniture,Chairs,South,2,272.03
+2024-01-05,Laptop Stand Aluminum,Technology,Accessories,Central,1,55.29
+2024-01-07,Ergonomic Office Chair,Furniture,Chairs,West,4,897.47
+2024-01-11,Highlighters 12-Pack,Office Supplies,Art,East,2,17.76
+2024-01-11,Laptop Stand Aluminum,Technology,Accessories,South,3,171.11
+2024-01-21,Smartphone Charger 20W,Technology,Phones,East,7,172.25
+2024-01-26,Ergonomic Office Chair,Furniture,Chairs,South,1,236.31
+2024-01-31,Wireless Earbuds,Technology,Phones,East,6,551.01
+2024-02-06,Conference Table 6ft,Furniture,Tables,East,6,1760.73
+2024-02-06,Binder Clips Assorted,Office Supplies,Binders,East,1,6.07
+2024-02-10,USB-C Hub 7-in-1,Technology,Accessories,South,3,172.41
+2024-02-18,USB-C Hub 7-in-1,Technology,Accessories,West,1,62.88
+2024-02-21,Legal Pads 12-Pack,Office Supplies,Paper,East,1,17.77
+2024-02-22,Copy Paper 10 Ream Case,Office Supplies,Paper,Central,2,96.86
+2024-02-23,Legal Pads 12-Pack,Office Supplies,Paper,West,4,74.09
+2024-02-24,Webcam HD 1080p,Technology,Accessories,West,3,220.14
+2024-02-25,Heavy-Duty Binder 3in,Office Supplies,Binders,West,3,-27.92
+2024-02-26,Heavy-Duty Binder 3in,Office Supplies,Binders,East,2,16.44
+2024-02-26,Webcam HD 1080p,Technology,Accessories,South,1,68.37
+2024-02-28,Highlighters 12-Pack,Office Supplies,Art,Central,1,9.4
+2024-03-08,Wireless Earbuds,Technology,Phones,East,6,541.41
+2024-03-11,Copy Paper 10 Ream Case,Office Supplies,Paper,South,3,137.83
+2024-03-11,Laptop Stand Aluminum,Technology,Accessories,Central,2,112.36
+2024-03-14,Binder Clips Assorted,Office Supplies,Binders,East,4,-24.86
+2024-03-16,Heavy-Duty Binder 3in,Office Supplies,Binders,Central,2,18.17
+2024-03-19,Marker Set 24 Colors,Office Supplies,Art,East,6,85.57
+2024-03-20,Copy Paper 10 Ream Case,Office Supplies,Paper,Central,5,251.58
+2024-03-29,Binder Clips Assorted,Office Supplies,Binders,South,3,16.55
+2024-03-31,Task Chair Mesh,Furniture,Chairs,Central,4,536.78
+2024-04-03,Standing Desk Electric,Furniture,Tables,Central,4,1732.99
+2024-04-04,USB-C Hub 7-in-1,Technology,Accessories,Central,5,303.59
+2024-04-07,USB-C Hub 7-in-1,Technology,Accessories,West,5,289.01
+2024-04-08,Task Chair Mesh,Furniture,Chairs,East,2,250.24
+2024-04-11,Copy Paper 10 Ream Case,Office Supplies,Paper,West,3,141.04
+2024-04-13,Legal Pads 12-Pack,Office Supplies,Paper,East,1,18.62
+2024-04-16,Highlighters 12-Pack,Office Supplies,Art,West,5,46.34
+2024-04-16,Heavy-Duty Binder 3in,Office Supplies,Binders,East,-5,44.26
+2024-04-19,Task Chair Mesh,Furniture,Chairs,West,4,473.26
+2024-04-19,Highlighters 12-Pack,Office Supplies,Art,Central,4,39.67
+2024-04-20,Binder Clips Assorted,Office Supplies,Binders,East,2,11.2
+2024-04-23,Task Chair Mesh,Furniture,Chairs,East,5,602.14
+2024-04-29,Wireless Earbuds,Technology,Phones,South,2,169.51
+2024-05-02,Laptop Stand Aluminum,Technology,Accessories,East,2,114.44
+2024-05-04,Task Chair Mesh,Furniture,Chairs,East,1,129.39
+2024-05-06,Task Chair Mesh,Furniture,Chairs,Central,3,389.93
+2024-05-12,Filing Cabinet 3-Drawer,Furniture,Storage,South,2,329.11
+2024-05-15,Smartphone Charger 20W,Technology,Phones,Central,1,23.83
+2024-05-15,Task Chair Mesh,Furniture,Chairs,West,5,663.67
+2024-05-16,Binder Clips Assorted,Office Supplies,Binders,West,2,11.65
+2024-05-20,USB-C Hub 7-in-1,Technology,Accessories,Central,2,115.52
+2024-05-22,Conference Table 6ft,Furniture,Tables,West,2,735.78
+2024-05-23,Highlighters 12-Pack,Office Supplies,Art,East,6,52.17
+2024-05-24,Webcam HD 1080p,Technology,Accessories,West,3,213.6
+2024-05-26,Binder Clips Assorted,Office Supplies,Binders,South,6,-35.2
+2024-05-31,Conference Table 6ft,Furniture,Tables,West,4,1586.5
+2024-06-02,Bookcase 5-Shelf,Furniture,Storage,West,5,765.46
+2024-06-06,Copy Paper 10 Ream Case,Office Supplies,Paper,Central,6,-287.79
+2024-06-14,Binder Clips Assorted,Office Supplies,Binders,East,7,40.04
+2024-06-16,Marker Set 24 Colors,Office Supplies,Art,West,2,26.18
+2024-06-17,Filing Cabinet 3-Drawer,Furniture,Storage,West,4,610.95
+2024-06-21,Ergonomic Office Chair,Furniture,Chairs,Central,4,-785.73
+2024-06-25,Wireless Earbuds,Technology,Phones,Central,4,350.96
+2024-06-25,Marker Set 24 Colors,Office Supplies,Art,West,3,40.76
+2024-07-01,Smartphone Charger 20W,Technology,Phones,Central,2,51.18
+2024-07-04,Bookcase 5-Shelf,Furniture,Storage,West,3,407.64
+2024-07-06,iPhone Case Pro,Technology,Phones,South,4,167.63
+2024-07-09,Wireless Earbuds,Technology,Phones,West,4,365.79
+2024-07-09,Laptop Stand Aluminum,Technology,Accessories,South,1,52.06
+2024-07-13,Wireless Earbuds,Technology,Phones,Central,1,91.75
+2024-07-14,Task Chair Mesh,Furniture,Chairs,West,6,771.45
+2024-07-15,Legal Pads 12-Pack,Office Supplies,Paper,Central,3,55.91
+2024-07-18,Standing Desk Electric,Furniture,Tables,South,5,-2062.7
+2024-07-20,Binder Clips Assorted,Office Supplies,Binders,South,6,36.53
+2024-07-20,Copy Paper 10 Ream Case,Office Supplies,Paper,South,5,231.44
+2024-07-20,Copy Paper 10 Ream Case,Office Supplies,Paper,West,5,-237.44
+2024-07-21,Heavy-Duty Binder 3in,Office Supplies,Binders,East,1,8.03
+2024-07-22,Standing Desk Electric,Furniture,Tables,East,2,774.6
+2024-07-24,Legal Pads 12-Pack,Office Supplies,Paper,Central,3,52.06
+2024-07-25,Legal Pads 12-Pack,Office Supplies,Paper,Central,1,16.72
+2024-08-01,Wireless Earbuds,Technology,Phones,South,8,725.24
+2024-08-01,Marker Set 24 Colors,Office Supplies,Art,Central,3,40.66
+2024-08-02,iPhone Case Pro,Technology,Phones,East,3,130.97
+2024-08-02,Bookcase 5-Shelf,Furniture,Storage,South,3,451.45
+2024-08-05,Binder Clips Assorted,Office Supplies,Binders,Central,5,30.36
+2024-08-09,Legal Pads 12-Pack,Office Supplies,Paper,South,2,34.8
+2024-08-13,Binder Clips Assorted,Office Supplies,Binders,East,6,37.04
+2024-08-15,Ergonomic Office Chair,Furniture,Chairs,Central,3,691.35
+2024-08-17,Laptop Stand Aluminum,Technology,Accessories,East,6,342.52
+2024-08-18,Webcam HD 1080p,Technology,Accessories,West,-5,133.35
+2024-08-27,Smartphone Charger 20W,Technology,Phones,South,7,161.41
+2024-08-27,Copy Paper 10 Ream Case,Office Supplies,Paper,West,1,48.78
+2024-09-04,Copy Paper 10 Ream Case,Office Supplies,Paper,West,5,238.29
+2024-09-05,Smartphone Charger 20W,Technology,Phones,Central,3,74.14
+2024-09-06,Marker Set 24 Colors,Office Supplies,Art,East,3,40.88
+2024-09-09,Wireless Earbuds,Technology,Phones,West,2,169.4
+2024-09-17,Copy Paper 10 Ream Case,Office Supplies,Paper,South,2,88.93
+2024-09-27,Laptop Stand Aluminum,Technology,Accessories,East,5,266.9
+2024-09-28,Smartphone Charger 20W,Technology,Phones,South,2,47.87
+2024-10-01,Marker Set 24 Colors,Office Supplies,Art,Central,7,95.28
+2024-10-01,Legal Pads 12-Pack,Office Supplies,Paper,East,3,56.64
+2024-10-02,Wireless Earbuds,Technology,Phones,East,9,839.97
+2024-10-03,Filing Cabinet 3-Drawer,Furniture,Storage,West,4,694.29
+2024-10-04,Ergonomic Office Chair,Furniture,Chairs,South,6,1498.59
+2024-10-07,Copy Paper 10 Ream Case,Office Supplies,Paper,West,7,-351.04
+2024-10-07,Task Chair Mesh,Furniture,Chairs,South,4,-495.81
+2024-10-13,Laptop Stand Aluminum,Technology,Accessories,West,4,225.43
+2024-10-18,Smartphone Charger 20W,Technology,Phones,West,5,112.86
+2024-10-20,Highlighters 12-Pack,Office Supplies,Art,East,4,38.97
+2024-10-27,Binder Clips Assorted,Office Supplies,Binders,West,1,5.2
+2024-10-28,Legal Pads 12-Pack,Office Supplies,Paper,West,1,17.15
+2024-10-29,Webcam HD 1080p,Technology,Accessories,West,1,70.78
+2024-10-30,Marker Set 24 Colors,Office Supplies,Art,Central,4,53.39
+2024-10-31,Task Chair Mesh,Furniture,Chairs,South,5,661.47
+2024-11-04,Bookcase 5-Shelf,Furniture,Storage,South,7,1046.96
+2024-11-05,Laptop Stand Aluminum,Technology,Accessories,East,6,-345.1
+2024-11-07,Laptop Stand Aluminum,Technology,Accessories,South,6,256.39
+2024-11-17,Legal Pads 12-Pack,Office Supplies,Paper,Central,12,215.21
+2024-11-20,Highlighters 12-Pack,Office Supplies,Art,West,5,50.53
+2024-11-22,Webcam HD 1080p,Technology,Accessories,East,5,357.67
+2024-11-28,Heavy-Duty Binder 3in,Office Supplies,Binders,South,5,46.23
+2024-12-06,Binder Clips Assorted,Office Supplies,Binders,East,4,18.63
+2024-12-09,Highlighters 12-Pack,Office Supplies,Art,Central,6,61.56
+2024-12-11,Task Chair Mesh,Furniture,Chairs,East,5,659.46
+2024-12-14,Copy Paper 10 Ream Case,Office Supplies,Paper,West,5,236.99
+2024-12-18,Marker Set 24 Colors,Office Supplies,Art,South,8,117.51
+2024-12-18,Heavy-Duty Binder 3in,Office Supplies,Binders,East,8,71.24
+2024-12-19,Legal Pads 12-Pack,Office Supplies,Paper,South,7,131.38
+2024-12-20,Laptop Stand Aluminum,Technology,Accessories,East,5,266.88
+2024-12-22,Conference Table 6ft,Furniture,Tables,East,3,1151.88
+2024-12-30,Standing Desk Electric,Furniture,Tables,East,9,3480.77
+2024-12-31,Standing Desk Electric,Furniture,Tables,South,4,-1612.8
+2024-12-31,Standing Desk Electric,Furniture,Tables,East,6,2599.79

@@ -1,5 +1,7 @@
 # Sales AI
 
+[Live demo](https://ai-dashboard-lyart-two.vercel.app) — The backend runs on a free Render instance, so the first load can take about a minute while it wakes up.
+
 Sales AI is a sales analytics dashboard with a FastAPI API and a React frontend. It provides revenue KPIs, safe natural-language chart queries, and rolling-origin revenue forecasts.
 
 ## Architecture
@@ -60,13 +62,23 @@ The chat feature does not execute model-generated code. It asks Gemini for a JSO
 
 ## Screenshots
 
-Add current application screenshots at the paths below:
+### Overview
 
-![Sales overview screenshot placeholder](docs/screenshots/overview.png)
+![Sales overview](docs/screenshots/overview.png)
 
-![Forecast comparison screenshot placeholder](docs/screenshots/forecast.png)
+*Overview page*
 
-![Sales chat screenshot placeholder](docs/screenshots/chat.png)
+### Forecast
+
+![Sales forecast](docs/screenshots/forecast.png)
+
+*Predictions page*
+
+### Chat
+
+![Sales chat](docs/screenshots/chat.png)
+
+*Chat page*
 
 ## Local setup
 
